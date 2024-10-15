@@ -1,2 +1,8 @@
-# Intro_to_research
-Contains files for those starting out in research, especially focused on cardiology
+## Introduction to research
+
+15th October 2024
+S. Coffey
+
+This document is to provide some starting points for those beginning in clinical research, particularly focused on cardiology.
+
+
