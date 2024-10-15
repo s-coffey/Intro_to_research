@@ -29,15 +29,17 @@ The University of Otago library has some excellent pages on doing a literature r
 
    Check the [Equator network](https://www.equator-network.org) for checklists for reporting so that everything will be covered when you get to it later.
 
-7. **Collect data** if needed. Do not, under any circumstances, use Excel to collect or analyse. Use [Redcap](https://redcap.otago.ac.nz). You will need to send an email to Ask Otago to get access to Redcap.
+6. **Collect data** if needed. Do not, under any circumstances, use Excel to collect or analyse. Use [Redcap](https://redcap.otago.ac.nz). You will need to send an email to Ask Otago to get access to Redcap.
 
-8. If you have not learned **R** before, do not worry. Install R by going to [The R Project for Statistical Computing](https://www.r-project.org) and clicking on CRAN to download the latest version. There is a mirror in [Auckland](https://cran.stat.auckland.ac.nz/). Then download RStudio, which makes using R much easier: [RStudio IDE](https://posit.co/downloads/). 
+7. If you have not learned **R** before, do not worry. Install R by going to [The R Project for Statistical Computing](https://www.r-project.org) and clicking on CRAN to download the latest version. There is a mirror in [Auckland](https://cran.stat.auckland.ac.nz/). Then download RStudio, which makes using R much easier: [RStudio IDE](https://posit.co/downloads/). 
 
    This course is an excellent starting point for learning R:
 [Statistical Analysis with R for Public Health Specialization on Coursera](https://www.coursera.org/specializations/statistical-analysis-r-public-health)
 Don't worry if it feels like you never master R, I don't think anyone ever does. Ideally when you are using R, you should have two monitors - one for RStudio, the other for a search engine for you to look up whatever it is you are trying to get R to do.
 
-9. Now
+8. Now you're ready for the data analysis - make sure the folders are ready, and follow the methods you have already described.
+
+9. Once this is done, you can fill in the blanks in the Results section in your manuscript and then write the Discussion. This should be short - first paragraph is summarising the results of your research, then two paragraphs putting this into context of previous results (which you will have from your literature review), then limitations of the research, and then a future research paragraph (what are the main unanswered questions? What is the next question to be answered?). Finally, a single paragraph conclusion to wrap everything up. After this, you can write the abstract using the main manuscript to guide you.
 
 
 
