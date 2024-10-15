@@ -69,12 +69,12 @@ This should have a subfolder for every major research output (paper, presentatio
 ## PROJ1\_Results substructure
 This folder contains all the study data, statistical analysis scripts, and outputs from this.
 
-PROJ1\_Results/PROJ1\_Data\_description
-PROJ1\_Results/PROJ1\_Data\_notes
-PROJ1\_Results/PROJ1\_Data\_received
-PROJ1\_Results/PROJ1\_Output
-PROJ1\_Results/PROJ1\_Scripts
-PROJ1\_Results/PROJ1\_Working\_data
++ PROJ1\_Results/PROJ1\_Data\_description
++ PROJ1\_Results/PROJ1\_Data\_notes
++ PROJ1\_Results/PROJ1\_Data\_received
++ PROJ1\_Results/PROJ1\_Output
++ PROJ1\_Results/PROJ1\_Scripts
++ PROJ1\_Results/PROJ1\_Working\_data
 
 Each subanalysis should have its own subfolder within the Output, Scripts, and Working\_data folders.
 The Data description folder contains any description of the data, such as variable lists or ideally a data dictionary. The Data notes folder contain any miscellaneous notes about decisions made during analysis that are not in the SAP.
