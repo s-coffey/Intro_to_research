@@ -37,9 +37,9 @@ The University of Otago library has some excellent pages on doing a literature r
 [Statistical Analysis with R for Public Health Specialization on Coursera](https://www.coursera.org/specializations/statistical-analysis-r-public-health)
 Don't worry if it feels like you never master R, I don't think anyone ever does. Ideally when you are using R, you should have two monitors - one for RStudio, the other for a search engine for you to look up whatever it is you are trying to get R to do.
 
-8. Now you're ready for the data analysis - make sure the folders are ready, and follow the methods you have already described.
+8. Now you're ready for the **data analysis** - make sure the folders are ready, and follow the methods you have already described.
 
-9. Once this is done, you can fill in the blanks in the Results section in your manuscript and then write the Discussion. This should be short - first paragraph is summarising the results of your research, then two paragraphs putting this into context of previous results (which you will have from your literature review), then limitations of the research, and then a future research paragraph (what are the main unanswered questions? What is the next question to be answered?). Finally, a single paragraph conclusion to wrap everything up. After this, you can write the abstract using the main manuscript to guide you.
+9. Once this is done, it's time to **finish writing** the manuscript. You can fill in the blanks in the Results section in your manuscript and then write the Discussion. This should be short - first paragraph is summarising the results of your research, then two paragraphs putting this into context of previous results (which you will have from your literature review), then limitations of the research, and then a future research paragraph (what are the main unanswered questions? What is the next question to be answered?). Finally, a single paragraph conclusion to wrap everything up. After this, you can write the abstract using the main manuscript to guide you.
 
 
 
