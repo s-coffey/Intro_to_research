@@ -8,7 +8,7 @@ Author: S Coffey
 
 ## Overview
 
-This document describes the shared folder structure that best works with an individual project, or group of related projects. These recommendations are based on personal experience, and should be adapted to individual projects.
+This document describes the shared folder structure that best works with an individual project, or group of related projects. These recommendations are based on my own personal preferences, and should be adapted to individual projects. A special thank you goes to Dr Jacqueline Birks and Dr Elena Frangou, who opened my eyes to the advantages of using these structures while we were working on OxVALVE - much of the structure presented here dates back to the folder structure they used at the Centre for Statistics in Medicine.
 
 Here we use the designation PROJ1 for the current project. The local path is written in full.
 
